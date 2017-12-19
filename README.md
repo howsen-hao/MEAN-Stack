@@ -1,2 +1,2 @@
 # MEAN-Stack
-Practice for MEAN Full stack development
+Practice for MEAN Stack development
